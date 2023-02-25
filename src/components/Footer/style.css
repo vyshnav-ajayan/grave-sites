@@ -1,0 +1,21 @@
+.Footer-container {
+    display: flex;
+    background-color: black;
+    height: 60px;
+    justify-content: space-between;
+    align-items: center;
+    flex-grow:1;
+    color: white;
+  }
+  .Title-container {
+    display: flex;
+  }
+  .Action-container {
+    display: flex;
+  }
+  .Icon-color{
+    color: white;
+  }
+  .Action-text {
+    color: white;
+  }

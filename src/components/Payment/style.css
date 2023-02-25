@@ -1,0 +1,22 @@
+.Header-container {
+    display: flex;
+    color:black;
+  }
+  .Form-Container {
+    display: flex;
+    flex-grow:1;
+    height:'100%';
+  }
+  .rootContainer {
+    display: flex;
+  }
+  .Icon-color{
+    color: white;
+  }
+  .Title-text {
+    color: white;
+  }
+  .Sub-item {
+    display: flex;
+  }
+  
