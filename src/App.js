@@ -1,7 +1,5 @@
 import './App.css';
-import {Header} from './components';
-import Payment from './components/Payment';
-import Footer from './components/Footer';
+import {Header,Payment,Footer} from './components';
 
 function App() {
   return (

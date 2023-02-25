@@ -1,0 +1,13 @@
+.Avatar-circle {
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-radius: 20px;
+    background-color: green;
+  }
+  .Avatar-text {
+    font-size: 14px;
+    margin: 0px;
+    color: white;
+  }

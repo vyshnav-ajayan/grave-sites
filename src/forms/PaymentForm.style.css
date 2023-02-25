@@ -4,9 +4,10 @@
   }
   .Form-Container {
     display: flex;
-    background-color:white;
-    /* flex-grow:1; */
-    /* height:'100%'; */
+    flex-grow:1;
+    flex-direction: column;
+    height:'100%';
+    border-radius: 10px;
   }
   .rootContainer {
     display: flex;
@@ -20,10 +21,8 @@
   .Sub-item {
     display: flex;
   }
-  .Grey-container{
-    background-color: #E5E4E2;
+  .Button-text{
+    color: white;
+    font-size: 11px;
+    margin: 0px;
   }
-  .bold-text{
-    font-weight: bold;
-  }
-  
